@@ -1,4 +1,4 @@
-i luv pocket mirror
+i code and i luv pocket mirror 
 
 <!--
 **sevennethescientist/sevennethescientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
