@@ -1,4 +1,4 @@
-![alt text](https://github.com/sevennethescientist/sevennethescientist/blob/6fdda0d87306798025b8514d98565f4dcd24364d/IMG_2044.png)
+![alt text](https://github.com/sevennethescientist/sevennethescientist/blob/main/goop%20gify.gif)
 HAIL GOOP!!!!!!!!!!!!!
 <!--
 **sevennethescientist/sevennethescientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
