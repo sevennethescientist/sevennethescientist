@@ -18,5 +18,4 @@
 [![](https://img.shields.io/badge/osu!-ff66ab)](link)
 [![](https://img.shields.io/badge/enka.network-69899c)](link)
 </div> --> -->
-
-this is being revamped
+this is being revamped 
