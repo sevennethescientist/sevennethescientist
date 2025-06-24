@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<!-- <div align="center">
+<img src="https://github.com/sevennethescientist/sevennethescientist/blob/main/assets/png_goldia.png" width="25%" align="right" />
+<img src="https://github.com/sevennethescientist/sevennethescientist/blob/main/assets/Untitled%20(400%20x%20150%20px).png" width="70%" height="200%" />
 <br><br>
 <pre>
     FIRST Alumni • Pocket Mirror Enthusiast • I love anything pink and pretty!
@@ -17,4 +17,6 @@
 [![](https://img.shields.io/badge/mastodon-6364ff)](link)
 [![](https://img.shields.io/badge/osu!-ff66ab)](link)
 [![](https://img.shields.io/badge/enka.network-69899c)](link)
-</div> -->
+</div> --> -->
+
+this is being revamped
