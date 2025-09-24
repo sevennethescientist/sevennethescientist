@@ -19,4 +19,4 @@
 [![](https://img.shields.io/badge/enka.network-69899c)](link)
 </div> --> -->
 this is being revamped, hello i am sevenne! the scientist!!
-----> python, java, learning javascript & pursuing a google cybersecurity certificate
+----> python, java, javascript, c++ & pursuing a google cybersecurity certificate
