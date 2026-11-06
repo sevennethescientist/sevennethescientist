@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73DB8&width=435&lines=i+am+totobops%2C+hello!)](https://git.io/typing-svg)
 <!-- <div align="center">
 <img src="https://github.com/sevennethescientist/sevennethescientist/blob/main/assets/png_goldia.png" width="25%" align="right" />
 <img src="https://github.com/sevennethescientist/sevennethescientist/blob/main/assets/Untitled%20(400%20x%20150%20px).png" width="70%" height="200%" />
